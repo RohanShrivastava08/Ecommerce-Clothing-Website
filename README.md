@@ -20,7 +20,7 @@ Welcome to My E-commerce Website project! This website is built using HTML, CSS,
 
 ## Live Demo
 Check out the live demo here:
-https://6646164cf1c060c05bf5b39b--clothingecommerceweb.netlify.app/
+https://clothingecommerceweb.netlify.app/
 
 
 ## Features
